@@ -81,6 +81,7 @@
     </dependencies>
 
     <build>
+        <finalName>huang-typora-upload</finalName>
         <resources>
             <resource>
                 <directory>${project.basedir}</directory>
